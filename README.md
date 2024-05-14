@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Khushi
 - 👀 I’m interested in Data science and Computer Science
 - 🌱 I’m currently learning LLMs
-- 📫 How to reach me: linkedIN
+- 📫 How to reach me: linkedIn
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I can mimic Janice from F.R.I.E.N.D.S like super well
 
