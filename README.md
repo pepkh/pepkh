@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning LLMs
 - 📫 How to reach me: linkedIn
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I can mimic Janice from F.R.I.E.N.D.S like super well
+- ⚡ Fun fact: I can mimic Janice from F.R.I.E.N.D.S
 
 <!---
 pepkh/pepkh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
