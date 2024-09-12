@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Khushi
+- 👋 Hi there, my name is Khushi
 - 👀 I’m interested in Data science and Computer Science
 - 🌱 I’m currently learning LLMs
 - 📫 How to reach me: linkedIn
