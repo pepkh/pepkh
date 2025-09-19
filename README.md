@@ -1,6 +1,6 @@
 - 👋 Hi there, my name is Khushi
+- I am a 4th year Computer Science major at UBC, currently on exchange at NUS
 - 👀 I’m interested in Data science and Computer Science
-- 🌱 I’m currently learning LLMs
 - 📫 How to reach me: linkedIn
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I can mimic Janice from F.R.I.E.N.D.S
